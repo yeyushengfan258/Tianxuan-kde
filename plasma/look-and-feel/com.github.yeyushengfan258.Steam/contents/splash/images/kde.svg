@@ -34,15 +34,15 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg4379"
-     inkscape:cx="133.344"
+     inkscape:cx="25.208831"
      inkscape:cy="74.112307"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="973"
+     inkscape:window-height="1023"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="32"
      inkscape:zoom="1.9975"
      objecttolerance="10"
      pagecolor="#dfe2e4"
@@ -54,20 +54,15 @@
        id="grid839"
        type="xygrid" />
   </sodipodi:namedview>
-  <g
-     id="22-22-start-here-kde"
-     transform="matrix(4.5454545,0,0,4.5454545,47.727273,54.165147)">
-    <circle
-       r="11"
-       cy="11"
-       cx="11.5"
-       id="path822"
-       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24874103;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.02217742"
-       inkscape:connector-curvature="0"
-       d="m 22.5,9.1673322 c 0,6.0766118 -4.93226,10.9999998 -11.01774,10.9999998 -5.04758,0 -9.29678,-3.384274 -10.60081,-8.001613 l 4.22258,1.743146 c 0.28387,1.42379 1.54799,2.501612 3.05605,2.501612 1.73871,0 3.18911,-1.437097 3.11371,-3.260081 l 3.74798,-2.670161 c 2.31089,0.05766 4.2492,-1.8141128 4.2492,-4.1471773 0,-2.28871 -1.86291,-4.147177 -4.15605,-4.147177 -2.29315,0 -4.15605,1.862903 -4.15605,4.147177 v 0.05323 L 8.33306,10.187497 c -0.6875,-0.03992 -1.36169,0.150806 -1.92943,0.536695 L 0.5,8.2846752 C 0.95242,2.6205617 5.69395,-1.8326643 11.48226,-1.8326643 17.56774,-1.8326643 22.5,3.0907227 22.5,9.1673362 Z M 7.40605,14.858059 6.05323,14.299186 a 2.3414921,2.3414921 0 0 0 1.20645,1.144356 c 1.19314,0.496774 2.56371,-0.07097 3.06048,-1.259678 0.23952,-0.576613 0.24395,-1.210888 0.004,-1.7875 C 10.08464,11.819752 9.63666,11.367333 9.06005,11.127816 8.48787,10.8883 7.87577,10.897172 7.33464,11.101207 l 1.39718,0.576612 c 0.87823,0.36371 1.29516,1.370565 0.92702,2.248791 -0.36815,0.88266 -1.375,1.295161 -2.25323,0.931452 z m 7.70887,-5.7616938 c -1.52581,0 -2.76774,-1.2419365 -2.76774,-2.7633075 0,-1.521371 1.24193,-2.763306 2.76774,-2.763306 1.52581,0 2.76774,1.241935 2.76774,2.763306 0,1.521371 -1.2375,2.7633075 -2.76774,2.7633075 z m 0.004,-0.691936 c 1.14879,0 2.08024,-0.9314515 2.08024,-2.0758065 0,-1.148791 -0.93145,-2.075807 -2.08024,-2.075807 -1.14879,0 -2.08024,0.931452 -2.08024,2.075807 0.004,1.144355 0.93588,2.0758065 2.08024,2.0758065 z"
-       p-id="21100"
-       id="path827" />
-  </g>
+  <text
+     id="text1483"
+     y="118.61423"
+     x="9.2259636"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.1360817px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.27840221"
+     xml:space="preserve"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.1360817px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:1.27840221"
+       y="118.61423"
+       x="9.2259636"
+       id="tspan1481"
+       sodipodi:role="line">Steam</tspan></text>
 </svg>
