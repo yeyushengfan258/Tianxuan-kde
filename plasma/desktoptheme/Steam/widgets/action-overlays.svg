@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
+   width="66"
+   height="66"
    version="1.1"
    id="svg71"
    sodipodi:docname="action-overlays.svg"
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1019"
      id="namedview73"
      showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="39.99256"
-     inkscape:cy="13.017088"
+     inkscape:zoom="7.3871231"
+     inkscape:cx="5.0717608"
+     inkscape:cy="36.360246"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg71">
     <inkscape:grid
@@ -52,7 +53,7 @@
   </sodipodi:namedview>
   <g
      id="remove-normal"
-     transform="matrix(1.375,0,0,1.375,0,-24.75)">
+     transform="matrix(1.375,0,0,1.375,-2,-24.75)">
     <rect
        style="opacity:0.00100002"
        width="16"
@@ -76,7 +77,7 @@
   </g>
   <g
      id="add-normal"
-     transform="matrix(1.375,0,0,1.375,0,-24.75)">
+     transform="matrix(1.375,0,0,1.375,-2,-24.75)">
     <rect
        style="opacity:0.00100002"
        width="16"
@@ -91,13 +92,14 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke-width:1"
-       d="M 10 7 L 10 10 L 7 10 L 7 12 L 10 12 L 10 15 L 12 15 L 12 12 L 15 12 L 15 10 L 12 10 L 12 7 L 10 7 z "
+       d="m 10,7 v 3 H 7 v 2 h 3 v 3 h 2 v -3 h 3 V 10 H 12 V 7 Z"
        transform="matrix(0.72727273,0,0,0.72727273,0,18)"
-       id="rect13" />
+       id="rect13"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="open-normal"
-     transform="matrix(1.375,0,0,1.375,0,-24.75)">
+     transform="matrix(1.375,0,0,1.375,-2,-24.75)">
     <rect
        style="opacity:0.00100002"
        width="16"
@@ -117,7 +119,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="matrix(1.375,0,0,1.375,23,-24.75)"
+     transform="matrix(1.375,0,0,1.375,21,-24.75)"
      id="remove-hover">
     <rect
        id="rect853"
@@ -141,7 +143,7 @@
        style="fill:#ffffff;stroke-width:0.72727275" />
   </g>
   <g
-     transform="matrix(1.375,0,0,1.375,23,-24.75)"
+     transform="matrix(1.375,0,0,1.375,21,-24.75)"
      id="add-hover">
     <rect
        id="rect861"
@@ -163,7 +165,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="matrix(1.375,0,0,1.375,23,-24.75)"
+     transform="matrix(1.375,0,0,1.375,21,-24.75)"
      id="open-hover">
     <rect
        id="rect869"
@@ -185,7 +187,7 @@
   </g>
   <g
      id="remove-pressed"
-     transform="matrix(1.375,0,0,1.375,48,-24.75)">
+     transform="matrix(1.375,0,0,1.375,46,-24.75)">
     <rect
        style="opacity:0.00100002"
        width="16"
@@ -194,7 +196,7 @@
        y="34"
        id="rect877" />
     <path
-       style="fill:#435685;fill-opacity:1;stroke-width:0.83116883"
+       style="fill:#5671ae;fill-opacity:1;stroke-width:0.83116883"
        d="M 13.818182,41.999999 A 5.8181817,5.8181817 0 0 1 8,47.81818 5.8181817,5.8181817 0 0 1 2.1818182,41.999999 5.8181817,5.8181817 0 0 1 8,36.181817 a 5.8181817,5.8181817 0 0 1 5.818182,5.818182 z"
        id="path879"
        inkscape:connector-curvature="0" />
@@ -209,7 +211,7 @@
   </g>
   <g
      id="add-pressed"
-     transform="matrix(1.375,0,0,1.375,48,-24.75)">
+     transform="matrix(1.375,0,0,1.375,46,-24.75)">
     <rect
        style="opacity:0.00100002"
        width="16"
@@ -218,7 +220,7 @@
        y="18"
        id="rect885" />
     <path
-       style="fill:#435685;fill-opacity:1;stroke-width:0.83116883"
+       style="fill:#5671ae;fill-opacity:1;stroke-width:0.83116883"
        d="M 13.818182,25.999999 A 5.8181817,5.8181817 0 0 1 8,31.81818 5.8181817,5.8181817 0 0 1 2.1818182,25.999999 5.8181817,5.8181817 0 0 1 8,20.181817 a 5.8181817,5.8181817 0 0 1 5.818182,5.818182 z"
        id="path887"
        inkscape:connector-curvature="0" />
@@ -231,7 +233,7 @@
   </g>
   <g
      id="open-pressed"
-     transform="matrix(1.375,0,0,1.375,48,-24.75)">
+     transform="matrix(1.375,0,0,1.375,46,-24.75)">
     <rect
        style="opacity:0.00100002"
        width="16"
@@ -240,7 +242,7 @@
        y="50"
        id="rect893" />
     <path
-       style="fill:#435685;fill-opacity:1;stroke-width:0.83116883"
+       style="fill:#5671ae;fill-opacity:1;stroke-width:0.83116883"
        d="M 13.818182,57.999999 A 5.8181817,5.8181817 0 0 1 8,63.81818 5.8181817,5.8181817 0 0 1 2.1818182,57.999999 5.8181817,5.8181817 0 0 1 8,52.181817 a 5.8181817,5.8181817 0 0 1 5.818182,5.818182 z"
        id="path895"
        inkscape:connector-curvature="0" />

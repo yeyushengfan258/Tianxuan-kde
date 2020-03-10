@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1019"
      id="namedview70"
      showgrid="false"
-     inkscape:zoom="2.5284424"
-     inkscape:cx="-12.919259"
-     inkscape:cy="57.456817"
+     inkscape:zoom="7.1515151"
+     inkscape:cx="21.541664"
+     inkscape:cy="48.578863"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg68" />
   <g
@@ -59,7 +59,7 @@
        y="4"
        x="25" />
     <circle
-       style="fill:#394c7b;fill-opacity:1"
+       style="fill:#7b90c5;fill-opacity:1"
        id="circle4"
        r="8"
        cy="20"
@@ -77,13 +77,13 @@
        y="4"
        x="25" />
     <circle
-       style="opacity:0.2;fill:#394c7b;fill-opacity:1"
+       style="opacity:0.2;fill:#7b90c5;fill-opacity:1"
        id="circle9"
        r="16"
        cy="20"
        cx="41" />
     <circle
-       style="fill:#394c7b;fill-opacity:1"
+       style="fill:#7b90c5;fill-opacity:1"
        id="circle11"
        r="8"
        cy="20"
@@ -101,13 +101,13 @@
        y="4"
        x="25" />
     <circle
-       style="opacity:0.3;fill:#394c7b;fill-opacity:1"
+       style="opacity:0.3;fill:#7b90c5;fill-opacity:1"
        id="circle16"
        r="16"
        cy="20"
        cx="41" />
     <circle
-       style="fill:#394c7b;fill-opacity:1"
+       style="fill:#7b90c5;fill-opacity:1"
        id="circle18"
        r="8"
        cy="20"
@@ -125,7 +125,7 @@
        y="4"
        x="25" />
     <circle
-       style="fill:#394c7b;fill-opacity:1"
+       style="fill:#7b90c5;fill-opacity:1"
        id="circle23"
        r="8"
        cy="20"
@@ -143,13 +143,13 @@
        y="4"
        x="25" />
     <circle
-       style="opacity:0.2;fill:#394c7b;fill-opacity:1"
+       style="opacity:0.2;fill:#7b90c5;fill-opacity:1"
        id="circle28"
        r="16"
        cy="20"
        cx="41" />
     <circle
-       style="fill:#394c7b;fill-opacity:1"
+       style="fill:#7b90c5;fill-opacity:1"
        id="circle30"
        r="8"
        cy="20"
@@ -167,13 +167,13 @@
        y="4"
        x="25" />
     <circle
-       style="opacity:0.3;fill:#394c7b;fill-opacity:1"
+       style="opacity:0.3;fill:#7b90c5;fill-opacity:1"
        id="circle35"
        r="16"
        cy="20"
        cx="41" />
     <circle
-       style="fill:#394c7b;fill-opacity:1"
+       style="fill:#7b90c5;fill-opacity:1"
        id="circle37"
        r="8"
        cy="20"
@@ -247,55 +247,55 @@
      id="groove-right" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 25,-20 v 1 h 1 v -1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-top" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 24,-20 c -0.56073,0 -1,0.43927 -1,1 h 1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-topleft" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 28,-19 c 0,-0.56073 -0.43927,-1 -1,-1 v 1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-topright" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 25,-15 v -1 h 1 v 1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-bottom" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 24,-15 c -0.56987,0 -1.0163,-0.43927 -1.0163,-1 H 24 Z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-bottomleft" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 28.04,-16 c 0,0.56073 -0.45667,1 -1.0396,1 v -1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-bottomright" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 25,-18 v 1 h 1 v -1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-center" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 23,-18 v 1 h 1 v -1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-left" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#394c7b;fill-opacity:1"
+     style="fill:#7b90c5;fill-opacity:1"
      d="m 27,-18 v 1 h 1 v -1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-right" />

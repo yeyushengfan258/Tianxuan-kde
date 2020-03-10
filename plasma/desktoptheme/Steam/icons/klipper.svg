@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1019"
      id="namedview9"
      showgrid="true"
-     inkscape:zoom="10.727273"
-     inkscape:cx="0.21350603"
-     inkscape:cy="8.7394583"
+     inkscape:zoom="15.170655"
+     inkscape:cx="-1.3882159"
+     inkscape:cy="16.138804"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg">
     <inkscape:grid
@@ -80,19 +80,19 @@
          id="g841">
         <rect
            ry="0"
-           y="10"
+           y="10.50336"
            x="40"
-           height="2.0000005"
+           height="1.0000002"
            width="6"
            id="rect835"
-           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.87201989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32371795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
         <rect
-           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.87201989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+           style="opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32371807;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
            id="rect837"
            width="6"
-           height="2.0000005"
+           height="1.0000004"
            x="40"
-           y="13"
+           y="13.50336"
            ry="0" />
       </g>
     </g>
