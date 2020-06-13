@@ -1,5 +1,4 @@
-
-Steam sddm theme for KDE Plasma desktop.
+Tianxuan sddm theme for KDE Plasma desktop.
 
 ## Installation
 

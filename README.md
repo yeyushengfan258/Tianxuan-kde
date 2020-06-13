@@ -1,6 +1,6 @@
-## Steam KDE Theme
+## Tianxuan KDE Theme
 
-Steam kde is a light clean theme for KDE Plasma desktop.
+Tianxuan kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
